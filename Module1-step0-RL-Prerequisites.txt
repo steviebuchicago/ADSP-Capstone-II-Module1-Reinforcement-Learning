@@ -1,0 +1,9 @@
+git clone https://github.com/microsoft/AirSim.git
+
+
+pip install -r AirSim/PythonClient/requirements.txt
+
+
+
+pip install gym stable-baselines3 tensorboard
+
